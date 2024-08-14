@@ -2,9 +2,6 @@
 
 O sistema foi desenvolvido pelo seguinte grupo:
 
-- [Gabriel Dutra](https://github.com/DutraGames)
-- [Luccas Lohan](https://github.com/gohan-exe)
-- [Denis Gales](https://github.com/DenisGalesNeves)
 
 O **Bom Prato** é um sistema de pedidos de restaurante desenvolvido para otimizar e simplificar o processo de pedidos e entregas para clientes e funcionários. Com uma interface intuitiva e amigável, os clientes podem fazer pedidos. Por outro lado, os funcionários do restaurante têm acesso a uma interface de gerenciamento robusta, onde podem monitorar os pedidos.
 
