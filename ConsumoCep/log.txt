@@ -1,0 +1,7 @@
+
+cep: 11721-100
+logradouro: Rua Franklin Alves de Moura
+bairro: Antártica
+cidade: Praia Grande
+estado: São Paulo
+---------------------------------------------
